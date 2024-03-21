@@ -6,7 +6,7 @@ official： https://www.netentsec.com/
 
 version:6.3
 
-Vulnerability Path ： /protocol/firewall/addfirewall.php
+Vulnerability Path ：/admin/address_interpret.php
 ```
 POST /admin/address_interpret.php HTTP/1.1
 Host: 218.75.78.54:4443
